@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Tailwind CSS, JavaScript, React**
 
-- 📫 How to reach me **anubhootipandey05@gmail.com**
+- 📫 How to reach me **anubhooti385@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
