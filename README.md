@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhootipandey" alt="anubhootipandey" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm with C++, React, Tailwind CSS, Material UI etc.**
+- 🌱 I’m currently learning **Data Structure and Algorithm, React, Tailwind CSS, Material UI etc.**
 
 - 📝 I regularly write articles on [https://medium.com/@anubhootipandey](https://medium.com/@anubhootipandey)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anubhooti385@gmail.com**
 
-- ⚡ Fun fact **I am not funny🙃!**
+- ⚡ Fun fact **🙃!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
