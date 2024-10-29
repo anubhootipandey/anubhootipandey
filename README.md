@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhootipandey" alt="anubhootipandey" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm, React, Tailwind CSS, Material UI etc.**
-
-- 📝 I regularly write articles on [https://medium.com/@anubhootipandey](https://medium.com/@anubhootipandey)
-
-- 💬 Ask me about **Tailwind CSS, JavaScript, React, Material UI**
-
-- 📫 How to reach me **anubhooti385@gmail.com**
-
-- ⚡ Fun fact **🙃!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anubhooti-pandey-418063228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anubhooti-pandey-418063228" height="30" width="40" /></a>
