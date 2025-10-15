@@ -2,6 +2,9 @@
 <h2 align="center">✨ Hi there, This is Anubhooti Pandey 👩‍💻</h1>
 <h3 align="center">Full Stack Developer | ⚙️ Generative AI Explorer | 🚀 Dreaming in Code & Coffee</h3>
 
+<!-- Profile views -->
+![Profile views](https://komarev.com/ghpvc/?username=anubhootipandey&color=FF9ED1)
+
 ---
 
 ### ⚡ Tech Universe  
@@ -42,14 +45,6 @@
 <!-- Rainbow divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
-</p>
-
----
-
-### 🛠️ Tools & Environments  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,html,css,tailwind,figma,mongodb,cpp,python,git,github,vscode,npm,webpack,babel,vercel,c" />
 </p>
 
 ---
