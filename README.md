@@ -1,4 +1,7 @@
 
+<!-- Profile views -->
+![Profile views](https://komarev.com/ghpvc/?username=anubhootipandey&color=FF9ED1)
+
 <h2 align="center">✨ Hi there, This is Anubhooti Pandey 👩‍💻</h1>
 <h3 align="center">Full Stack Developer | ⚙️ Generative AI Explorer | 🚀 Dreaming in Code & Coffee</h3>
 
@@ -17,11 +20,17 @@
 #### 💻 Languages & Frameworks  
 `React` · `Next.js` · `Node.js` · `Express.js` · `TypeScript` · `JavaScript(ES6+)` · `Python` · `C++` · `HTML5` · `CSS3`  
 
+#### ✨ API Integration  
+`Axios` · `Postman` · `Thunder Client` · `RESTful API` · `Fetch`
+
 #### 🎨 Styling & Design  
 `TailwindCSS` · `SASS` · `Bootstrap` · `Figma` · `Canva`
 
-#### 🧠 Databases & Tools  
+#### ⚙️ Databases & Tools  
 `MongoDB` · `SQL` · `Redux` · `Git` · `GitHub`
+
+#### 🚀 Deployment & Build Tools 
+`Vercel` · `Render` · `Netlify` · `Heroku` . `NPM` . `Webpack` . `Chrome DevTools` . `Babel`
 
 #### 🧠 CS Subjects  
 `OOPs` · `DSA` · `DBMS` · `Computer Network` 
@@ -67,11 +76,6 @@
     <img src="https://img.shields.io/badge/Portfolio-FF9ED1?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
----
-
-<!-- Profile views -->
-![Profile views](https://komarev.com/ghpvc/?username=anubhootipandey&color=FF9ED1)
 
 ---
 
