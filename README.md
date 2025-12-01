@@ -24,16 +24,16 @@
 `Axios` · `Postman` · `Thunder Client` · `RESTful API` · `Fetch`
 
 #### 🎨 Styling & Design  
-`TailwindCSS` · `SASS` · `Bootstrap` · `Figma` · `Canva`
+`TailwindCSS` · `SASS` · `Bootstrap` · `Figma` · `Canva` . `LightRoom`
 
 #### ⚙️ Databases & Tools  
-`MongoDB` · `SQL` · `Redux` · `Git` · `GitHub`
+`MongoDB` · `SQL` · `Redux` · `Git` · `GitHub` . `PostgreSQL`
 
-#### 🚀 Deployment & Build Tools 
-`Vercel` · `Render` · `Netlify` · `Heroku` . `NPM` . `Webpack` . `Chrome DevTools` . `Babel`
+#### 🚀 Deployment, Test & Build Tools 
+`Vercel` · `Render` · `Netlify` · `Heroku` . `NPM` . `Webpack` . `Chrome DevTools` . `Babel` . `Jest`
 
 #### 🧠 CS Subjects  
-`OOPs` · `DSA` · `DBMS` · `Computer Network` 
+`OOPs` · `DSA` · `DBMS` · `Computer Network` . `Operating System` 
 
 ---
 
