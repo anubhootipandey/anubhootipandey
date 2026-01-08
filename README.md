@@ -12,29 +12,6 @@
 
 </p>
 
-
----
-
-### ⚡ Tech Universe  
-
-#### 💻 Languages & Frameworks  
-`React` · `Next.js` · `Node.js` · `Express.js` · `TypeScript` · `JavaScript(ES6+)` · `Python` · `C++` · `HTML5` · `CSS3`  
-
-#### ✨ API Integration  
-`Axios` · `Postman` · `Thunder Client` · `RESTful API` · `Fetch`
-
-#### 🎨 Styling & Design  
-`TailwindCSS` · `SASS` · `Bootstrap` · `Figma` · `Canva` . `LightRoom`
-
-#### ⚙️ Databases & Tools  
-`MongoDB` · `SQL` · `Redux` · `Git` · `GitHub` . `PostgreSQL`
-
-#### 🚀 Deployment, Test & Build Tools 
-`Vercel` · `Render` · `Netlify` · `Heroku` . `NPM` . `Webpack` . `Chrome DevTools` . `Babel` . `Jest`
-
-#### 🧠 CS Subjects  
-`OOPs` · `DSA` · `DBMS` · `Computer Network` . `Operating System` 
-
 ---
 
 ### 📊 GitHub Analytics  
@@ -71,9 +48,6 @@
   </a>
   <a href="mailto:anubhootipandey05@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF9ED1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://workfolio-red.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF9ED1?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
