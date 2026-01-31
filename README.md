@@ -16,6 +16,8 @@
 
 
 
+
+
 ### 📊 GitHub Analytics  
 
 <!-- GitHub Stats & Top Languages -->
@@ -31,6 +33,9 @@
     </tr>
   </table>
 </div>
+
+<!-- GitHub Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhootipandey&bg_color=0d1117&color=FF9ED1&line=8b949e&point=ff69b4&area=true&hide_border=false)
 
 <!-- Rainbow divider -->
 <p align="center">
@@ -57,3 +62,4 @@
 </p>
 
 ---
+
