@@ -4,7 +4,7 @@
 ## Frontend Engineer
 Building AI products, full-stack applications, and thoughtful digital experiences.
 
-<br clear="right"/>
+<!-- <br clear="right"/>
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td width="66%" valign="top" align="center" colspan="2">
@@ -37,4 +37,4 @@ Building AI products, full-stack applications, and thoughtful digital experience
 <a href="https://github.com/anubhootipandey">Follow</a> ·
 <a href="https://github.com/anubhootipandey?tab=repositories">Repositories</a> ·
 <a href="https://github.com/anubhootipandey/the-referee">⭐ Favorite Project</a>
-</p></div>
+</p></div> -->
