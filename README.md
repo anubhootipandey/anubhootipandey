@@ -1,30 +1,21 @@
-# Full-Stack AI Engineer
-
-I build full-stack applications, AI-powered systems, developer tools, and design systems — from the interface and API to databases, AI pipelines, deployment, and everything in between.
-
-Currently focused on AI engineering, full-stack development, open source, and building products that are actually useful.
+<img src="https://github.com/user-attachments/assets/b0218676-0ab0-4471-a3be-bcd429c0e770" width="250" align="right" />
 
 <p align="left">
-  <a href="https://proof-of-work-three.vercel.app">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="30" height="30" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <!-- <a href="https://medium.com/@itsanp">
-    <img src="https://img.icons8.com/fluency/48/medium-logo.png" width="36" height="36" alt="Medium"/>
-  </a>
-  &nbsp; -->
-  <a href="mailto:anubhooti5work@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" width="30" height="30" alt="Email"/>
-  </a>
-  <!-- &nbsp;
-  <a href="YOUR_DISCORD_PROFILE_OR_SERVER">
-    <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="30" height="30" alt="Discord"/>
-  </a>
-</p> -->
+  <img src="https://komarev.com/ghpvc/?username=anubhootipandey&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
----
+<h3 align="left">Hey👋, I’m Anubhooti Pandey — a developer interested in building amazing things.</h3>
 
-## Tech
+<p align="center">
+  <sub>• Full-Stack AI & AI Agents</sub><br>
+  <sub>• Open Source</sub><br>
+  <sub>• Developer Tools</sub>
+</p>
+
+<br clear="all" />
+
+
+## Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -84,5 +75,12 @@ A reusable React design system focused on **consistent interfaces, reusable comp
 ---
 
 <p align="center">
-  <sub>Build useful things. Open the source. Let people improve them.</sub>
+  <sub>Build useful things. Open the source. Let people improve them.</sub> <br><br>
+  <a href="https://proof-of-work-three.vercel.app">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="30" height="30" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="mailto:anubhooti5work@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="30" height="30" alt="Email"/>
+  </a>
 </p>
