@@ -24,55 +24,6 @@ Currently focused on AI engineering, full-stack development, open source, and bu
 
 ---
 
-## Open Source
-
-### AI Media Toolkit
-
-**Privacy-first media processing directly in the browser.**
-
-Remove image backgrounds, resize images, clean audio, mix background music, and export media — **without uploading files to a server.**
-
-[Live Demo →](https://ai-media-toolkit-beta.vercel.app) · **[GitHub →](https://github.com/anubhootipandey/ai-media-toolkit)**
-
-<table>
-<tr>
-<td width="50%">
-
-<img width="792" height="629" alt="image" src="https://github.com/user-attachments/assets/94ae09ad-37f7-4fa8-8072-3c327c663a54" />
-
-
-</td>
-<td width="50%">
-
-**Built with**
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `WebAssembly` `FFmpeg.wasm` `Canvas API` `Web Audio API`
-
-**Highlights**
-
-* 100% client-side processing
-* AI-powered image background removal
-* Image resizing & print-ready presets
-* Audio cleanup & processing
-* Background music mixing
-* Before/after previews
-* Lazy-loaded processing modules
-* WAV / MP3 / OGG export
-
-</td>
-</tr>
-</table>
-
-### Why Open Source?
-
-The goal is to turn AI Media Toolkit into a **community-built browser media toolkit** where developers can contribute new processing features, improve performance, add formats, improve accessibility, build plugins, and experiment with browser-based AI.
-
-**⭐ Star it · 👀 Follow it · 🐛 Open an issue · 🔀 Contribute**
-
-[Explore the project →](https://github.com/anubhootipandey/ai-media-toolkit)
-
----
-
 ## Tech
 
 <p align="center">
