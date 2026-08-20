@@ -6,15 +6,21 @@ Currently focused on AI engineering, full-stack development, open source, and bu
 
 <p align="left">
   <a href="https://proof-of-work-three.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="30" height="30" alt="Portfolio"/>
   </a>
+  &nbsp;
   <!-- <a href="https://medium.com/@itsanp">
-    <img src="https://img.shields.io/badge/Writing-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a> -->
-  <a href="mailto:anubhooti5work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/medium-logo.png" width="36" height="36" alt="Medium"/>
   </a>
-</p>
+  &nbsp; -->
+  <a href="mailto:anubhooti5work@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="30" height="30" alt="Email"/>
+  </a>
+  <!-- &nbsp;
+  <a href="YOUR_DISCORD_PROFILE_OR_SERVER">
+    <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="30" height="30" alt="Discord"/>
+  </a>
+</p> -->
 
 ---
 
@@ -69,30 +75,11 @@ The goal is to turn AI Media Toolkit into a **community-built browser media tool
 
 ## Tech
 
-### Languages
-
-`Python` `JavaScript` `TypeScript` `SQL`
-
-### Frontend
-
-`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
-
-### Backend
-
-`Node.js` `Express.js` `FastAPI` `REST APIs`
-
-### AI Engineering
-
-`LLMs` `RAG` `Prompt Engineering` `AI APIs` `LLM Pipelines` `AI Applications`
-
-### Databases
-
-`PostgreSQL` `MongoDB` `Supabase`
-
-### Tools
-
-`Git` `GitHub Actions` `Vercel` `Render` `Google Cloud` `Linux`
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,tailwind,nodejs,express,fastapi,graphql,postgresql,mongodb,supabase,docker,git,githubactions,vercel,scss,linux&theme=dark&perline=10" height="80" alt="Tech Stack"/>
+  </a>
+</p>
 
 ---
 
